@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work, and doin a good job of it
 
 ## Introduction
 
-Let me introduce you to this fantastic project
+Let me introduce you to this fantastic project.
 
 ## Purpose
 
