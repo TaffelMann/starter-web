@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Just add some random data
+Just add some random data. Lorem ipsum whatever
+The quick brown fox jumps over the lazy dog
